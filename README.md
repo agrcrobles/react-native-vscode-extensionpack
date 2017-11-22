@@ -32,6 +32,15 @@ The extension uses the ESLint library installed in the opened workspace folder. 
 
 None as of now
 
+## Related links
+
+* [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=zetta.react-native-vscode-extensionpack)
+
+
+* [Github](
+https://github.com/agrcrobles/react-native-vscode-extensionpack
+)
+
 ### 0.0.1
 
 Initial release
