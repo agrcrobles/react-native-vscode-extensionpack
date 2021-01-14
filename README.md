@@ -1,8 +1,8 @@
-# React Native VSCode Extension Pack
+# React Native Extension Pack
 
-A collection of my favorite extensions for working with React Native Applications in VS Code
+A collection of my popular extensions that can help write, test and debug React Native applications in Visual Studio Code.
 
-## Features
+## Extensions Included
 
 ### React Native Tools
 
@@ -10,39 +10,44 @@ This extension provides a development environment for React Native projects. Usi
 
 * [For more information](https://marketplace.visualstudio.com/items?itemName=vsmobile.vscode-react-native)
 
-### Flow for Visual Studio Code
+### Flow
 
-This extension adds Flow support for VS Code. Flow is a static type checker, designed to find type errors in JavaScript programs.
+You may not need flow but React Native codebase uses it as the static type checker. This extension adds Flow support for VS Code.
 
 * [For more information](https://marketplace.visualstudio.com/items?itemName=flowtype.flow-for-vscode)
 
-### Prettier formatter for Visual Studio Code
+### Prettier
 
-VS Code package to format your JavaScript / TypeScript / CSS using Prettier.
+Format your JavaScript and TypeScript using Prettier.
 
-* [For more information](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+* For more information [see here](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 
-### VS Code ESLint extension
+### ESLint
 
 The extension uses the ESLint library installed in the opened workspace folder. If the folder doesn't provide one the extension looks for a global install version. If you haven't installed ESLint either locally or globally do so by running npm install eslint in the workspace folder for a local install or `npm install -g eslint` for a global install.
 
 * [For more information](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 
-## Known Issues
 
-None as of now
+## Marketplace
 
-## Related links
-
-* [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=zetta.react-native-vscode-extensionpack)
+* Find me on [marketplace.visualstudio.com](https://marketplace.visualstudio.com/items?itemName=zetta.react-native-vscode-extensionpack) on 
 
 
-* [Github](
+* [Source Code](
 https://github.com/agrcrobles/react-native-vscode-extensionpack
 )
+
+### Changelog
+
+### 0.0.2
+
+Updated vs code engine
 
 ### 0.0.1
 
 Initial release
 
-**Enjoy!**
+## License
+
+[MIT](https://github.com/agrcrobles/react-native-vscode-extensionpack/LICENSE)
