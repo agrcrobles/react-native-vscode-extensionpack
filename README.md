@@ -8,13 +8,13 @@ A collection of my popular extensions that can help write, test and debug React 
 
 This extension provides a development environment for React Native projects. Using this extension, you can debug your code, quickly run `react-native` commands from the command palette, and use IntelliSense to browse objects, functions and parameters for React Native APIs.
 
-* [For more information](https://marketplace.visualstudio.com/items?itemName=vsmobile.vscode-react-native)
+* [Docs:](https://marketplace.visualstudio.com/items?itemName=vsmobile.vscode-react-native)
 
 ### Flow
 
 You may not need flow but React Native codebase uses it as the static type checker. This extension adds Flow support for VS Code.
 
-* [For more information](https://marketplace.visualstudio.com/items?itemName=flowtype.flow-for-vscode)
+* For more about it [see here](https://marketplace.visualstudio.com/items?itemName=flowtype.flow-for-vscode)
 
 ### Prettier
 
@@ -31,7 +31,7 @@ The extension uses the ESLint library installed in the opened workspace folder. 
 
 ## Marketplace
 
-* Find me on [marketplace.visualstudio.com](https://marketplace.visualstudio.com/items?itemName=zetta.react-native-vscode-extensionpack) on 
+* Find me on [marketplace.visualstudio.com](https://marketplace.visualstudio.com/items?itemName=zetta.react-native-vscode-extensionpack)
 
 
 * [Source Code](
