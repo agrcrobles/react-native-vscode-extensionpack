@@ -2,13 +2,10 @@
     "name": "react-native-vscode-extensionpack",
     "displayName": "React Native Extension Pack",
     "description": "ReactNative Extension Pack",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "zetta",
     "license": "MIT",
-    "engines": {
-        "vscode": "^1.0.0"
-    },
-    "keywords": ["react", "react-native", "extension pack"],
+    "keywords": ["react", "react-native", "extension pack", "debugger"],
     "categories": ["Extension Packs"],
     "icon": "logo.png",
     "repository": {
@@ -18,7 +15,10 @@
     "bugs": {
         "url": "https://github.com/agrcrobles/react-native-vscode-extensionpack/issues"
     },
-    "extensionDependencies": [
+    "engines": {
+        "vscode": "^1.32.0"
+    },
+    "extensionPack": [
         "esbenp.prettier-vscode",
         "dbaeumer.vscode-eslint",
         "flowtype.flow-for-vscode",
