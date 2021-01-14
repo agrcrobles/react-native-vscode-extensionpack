@@ -8,7 +8,7 @@ A collection of my popular extensions that can help write, test and debug React 
 
 This extension provides a development environment for React Native projects. Using this extension, you can debug your code, quickly run `react-native` commands from the command palette, and use IntelliSense to browse objects, functions and parameters for React Native APIs.
 
-* [Docs:](https://marketplace.visualstudio.com/items?itemName=vsmobile.vscode-react-native)
+* Docs: [here](https://marketplace.visualstudio.com/items?itemName=vsmobile.vscode-react-native)
 
 ### Flow
 
